@@ -2,7 +2,9 @@
 .vscode/
 /coverage/
 /vendor/
-/logs/*
+logs/
+/public
+/var
 !/logs/README.md
 .phpunit.result.cache
 CONTRIBUTING.md
